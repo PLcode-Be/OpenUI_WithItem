@@ -1,0 +1,9 @@
+name: Time_FormUI
+main: time\Main
+author: PLcode
+version: 1
+api: 3.0.0
+
+commands:
+  test:
+    description: "폼을 보여줌"
